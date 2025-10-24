@@ -1,0 +1,6 @@
+com\nirogya\dto\AppointmentDTO.class
+com\nirogya\entity\Appointment.class
+com\nirogya\entity\User$UserRole.class
+com\nirogya\entity\Appointment$AppointmentStatus.class
+com\nirogya\entity\User$VerificationStatus.class
+com\nirogya\entity\User.class
